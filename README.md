@@ -1,4 +1,11 @@
-# Listing Classmates
+STUDENT_NAMES = [
+  "Adele",
+  "Beyoncé",
+  "Cardi B",
+  "Lady Gaga",
+  "Nicki Minaj",
+  "Rihanna"
+]
 
 This is a group lab, so make sure you are working in a group of 2-4 students
 
